@@ -2,6 +2,7 @@
 
 [![Angular](https://img.shields.io/badge/Angular-16+-DD0031?logo=angular)](https://angular.io/)
 [![Ionic](https://img.shields.io/badge/Ionic-7+-3880FF?logo=ionic)](https://ionicframework.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Modern e-commerce application with dynamic shopping cart, payment processing, and digital receipts. Built with Angular and Ionic for a cross-platform experience.
 
@@ -48,7 +49,7 @@ Modern e-commerce application with dynamic shopping cart, payment processing, an
 ## Installation 🚀
 ```bash
 # 1. Clone repository
-git clone https://github.com/Dandelionield/StoreBazaar.git
+git clone https://github.com/MaySalguedo/StoreBazaar.git
 
 # 2. Install dependencies
 cd StoreBazaar
